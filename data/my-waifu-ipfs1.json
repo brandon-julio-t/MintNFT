@@ -1,0 +1,10 @@
+{
+    "name": "My Waifu #1",
+    "attributes": [
+        {"trait_type": "Elemental Skill", "value": "Baleful Omen"},
+        {"trait_type": "Elemental Burst", "value": "Secret Art: Musou Shinsetsu"},
+        {"trait_type": "Weapon", "value": "Engulfing Lightning"}
+    ],
+    "image": "https://ipfs.io/ipfs/QmRQMvmWEiwfu3sN9GpLznbhrJXtCtxU8X9i6pKbezXq5u",
+    "description": "My Waifu: Raiden Shogun"
+}
